@@ -1,4 +1,4 @@
-"# implementacao-grafo-"
+"# busca-largura-profundidade"
 
 Nome: Thallys Silva dos Santos Correia RA: 2144360
 
@@ -76,5 +76,3 @@ Fim da busca
 
 Todos os vértices foram visitados e a fila está vazia.
 iniFila = 15, tamFila = 15.
-"# busca-largura-profundidade" 
-"# busca-largura-profundidade" 
